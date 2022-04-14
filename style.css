@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.Dashboard {
+    display: flex;
+    justify-content: center;
+    place-items: center;
+    height: 100vh;
+}
+.sidepanel {
+    width: 20%;
+    background-color: rgb(12,12,100);
+}
+.admin-logo {
+    height: 200px;
+}
+.bi-chevron-up {
+    font-size: 13px;
+}
+.Dash1 {
+    height: 120px;
+}
+.Dash {
+    height: 55px;
+}
+.Dashboard-content a{
+    color: white;
+    font-size: 15px;
+    margin-right: 70px;
+}
+.sec-2 {
+    width: 80%;
+}  
